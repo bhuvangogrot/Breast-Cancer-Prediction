@@ -1,12 +1,7 @@
 # Breast-Cancer-Prediction
 Breast cancer is the most common malignancy among women, accounting for nearly 1 in 3 cancers diagnosed among women in the United States, and it is the second leading cause of cancer death among women. Breast Cancer occurs as a result of abnormal growth of cells in the breast tissue, commonly referred to as a Tumor. A tumor does not mean cancer - tumors can be benign (not cancerous), pre-malignant (pre-cancerous), or malignant (cancerous). Tests such as MRI, mammogram, ultrasound, and biopsy are commonly used to diagnose breast cancer performed.
 
-# Objective:
-The repository is a learning exercise to:
-
-   1. Apply the fundamental concepts of machine learning from an available dataset
-   2. Evaluate and interpret and justify our results and interpretation based on observed dataset in Jupyter notebook
-  
+# Objective:  
 The analysis is divided into four sections, saved in juypter notebooks in this repository
 
    1) Identifying the problem and Data Sources
